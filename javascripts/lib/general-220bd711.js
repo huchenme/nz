@@ -1,0 +1,1 @@
+!function(){$(document).foundation(),jQuery(function(){var e,r,o,t,n;return $("a[href^='#']").click(function(e){return e.preventDefault()}),e=BrowserDetect.browser,r=BrowserDetect.version,n="Explorer"===e&&11>r,t="Firefox"===e&&20>r,o="Chrome"===e&&25>r,$("html.memories").length>0&&(n||o||t)?$("#slide-backup").show():void 0})}.call(this);

@@ -1,0 +1,1 @@
+!function(){jQuery(function(){return $(".slide-container").onepage_scroll({sectionContainer:".slide",easing:"ease-in-out",animationTime:700,pagination:!0,pageNumber:!0,updateURL:!1,beforeMove:function(){},afterMove:function(){},loop:!1,responsiveFallback:!1})})}.call(this);
